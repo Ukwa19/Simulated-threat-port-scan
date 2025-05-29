@@ -20,7 +20,7 @@ See the `screenshots/` folder for:
 - UFW firewall status
 
 ## 📄 Report
-The full write-up is in `report.pdf`.
+The full write-up is in `Simulated Threat & Response- Miracle Ukwa.pdf`.
 
 ## ✅ What I Learned
 This project helped me understand real-world network defense: how reconnaissance works and how layered controls can detect and prevent it. Next step: testing Suricata for deeper protocol analysis.
